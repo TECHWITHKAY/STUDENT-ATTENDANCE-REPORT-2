@@ -21,5 +21,7 @@
 **_Seth methodology_**
 * tablea
 * powerbi
-* excel
-* csv visuals
+
+  
+. excel
+. csv visuals
