@@ -4,6 +4,9 @@
 ---
 
 **OVERVIEW**
+<img width="1536" height="1024" alt="ChatGPT Image Nov 15, 2025, 03_49_36 AM" src="https://github.com/user-attachments/assets/99d3a26c-edd5-42f4-91eb-5b628152ffb4" />
+
+
 | **No.** | **Student Name** | **ID Number** | **Total Days** | **Days Present** | **Days Absent** | **Attendance %** | **Remarks**       |
 | ------- | ---------------- | ------------- | -------------- | ---------------- | --------------- | ---------------- | ----------------- |
 | 1       | Ama Mensah       | STU/001       | 30             | 28               | 2               | 93.3%            | Excellent         |
@@ -26,3 +29,5 @@
 1. excel
 2. csv
 3. visuals
+
+
