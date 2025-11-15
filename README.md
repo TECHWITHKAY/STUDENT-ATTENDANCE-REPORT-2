@@ -18,8 +18,8 @@
 | 10      | Samuel Boateng   | STU/010       | 30             | 24               | 6               | 80%              | Good              |
 
 
-_Seth methodology_
-tablea
-powerbi
-excel
-csv visuals
+**_Seth methodology_**
+* tablea
+* powerbi
+* excel
+* csv visuals
