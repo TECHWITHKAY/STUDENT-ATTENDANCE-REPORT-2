@@ -23,5 +23,6 @@
 * powerbi
 
   
-. excel
-. csv visuals
+1. excel
+2. csv
+3. visuals
