@@ -16,3 +16,10 @@
 | 8       | Patrick Tetteh   | STU/008       | 30             | 19               | 11              | 63.3%            | Fair              |
 | 9       | Gifty Addo       | STU/009       | 30             | 29               | 1               | 96.7%            | Excellent         |
 | 10      | Samuel Boateng   | STU/010       | 30             | 24               | 6               | 80%              | Good              |
+
+
+_Seth methodology_
+tablea
+powerbi
+excel
+csv visuals
